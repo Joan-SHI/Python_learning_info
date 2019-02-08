@@ -3,6 +3,8 @@
 **Notes:** 
 
 1. https://opensource.guide/how-to-contribute/
+Had better go through "Opening a pull request"(in Section5) again when it suits.
+
 
 2. "learn by doing" 
 https://www.jetbrains.com/education/#lang=python&role=learner
