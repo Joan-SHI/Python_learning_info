@@ -9,6 +9,8 @@ Had better go through "Opening a pull request"(in Section5) again when it suits.
 2. "learn by doing" 
 https://www.jetbrains.com/education/#lang=python&role=learner
 Getting used to creating a virtualenv, installing the repo and running the unit tests
+PyCharm Edu 
+day1: # Bring me back to Phase0 when I learned JavaScript through freecodecamp.
 
 3. https://www.python.org/dev/peps/pep-0008/ or alternative approach:
 
