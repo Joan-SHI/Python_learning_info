@@ -11,7 +11,8 @@ https://www.jetbrains.com/education/#lang=python&role=learner
 Getting used to creating a virtualenv, installing the repo and running the unit tests.
 - :u6709:PyCharm Edu   
 :arrow_lower_right:day1: # Bring me back to Phase0 when I learned JavaScript through freecodecamp.  
-:arrow_lower_right:day2: # Python is a beautiful language (so far:stuck_out_tongue_winking_eye:)
+:arrow_lower_right:day2: # Python is a beautiful language. (so far:stuck_out_tongue_winking_eye:)
+:arrow_lower_right:day3: # Well I will remember Fibonacci Sequence for quite a while. I am at my stretch zone now, code daily helps I guess. 
 
 3. https://www.python.org/dev/peps/pep-0008/ or alternative approach:
 
