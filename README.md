@@ -14,7 +14,9 @@ Getting used to creating a virtualenv, installing the repo and running the unit 
 :arrow_lower_right:day2: # Python is a beautiful language. (so far:stuck_out_tongue_winking_eye:)   
 :arrow_lower_right:day3: # Well I will remember Fibonacci Sequence for quite a while. I am at my stretch zone now, coding daily helps I guess.  
 :arrow_lower_right:day4: # Variables, Strings, Data structures, Condition expressions, Loops, Functions, Classes and objects, Modules and packages, File input/output.     
-:arrow_lower_right:day5: # I need more time to digest self parameter/variable in Python.
+:arrow_lower_right:day5: # I need more time to digest self parameter/variable in Python.    
+:arrow_lower_right:day6: # Finish 'introduction to Python3' today. I enjoy 'Python Tutorial' in w3schools.com too.
+https://www.w3schools.com/python/default.asp       
 
 3. https://www.python.org/dev/peps/pep-0008/ or alternative approach:
 
