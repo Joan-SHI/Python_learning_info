@@ -34,4 +34,4 @@ Install a Python IDE (PyCharm CE:  https://www.jetbrains.com/pycharm/ ) and turn
 
 - https://github.com/eflglobal/filters/issues/41
 
-- https://github.com/eflglobal/filters/issues/40 (Definately a stretch issue)
+- https://github.com/eflglobal/filters/issues/40 (Definitely a stretch issue)
